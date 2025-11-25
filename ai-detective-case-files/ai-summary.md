@@ -1,0 +1,5 @@
+Working through these exercises with the help of AI shows how this kind of tools can be a practical support when learning programming. The AI not only corrects mistakes and explains concepts, but also helps you understand the intention behind the code, simplify functions, and improve practices like naming variables or using methods correctly.
+
+It also allows you to experiment without fear of making mistakes, because you can always get a step-by-step explanation. In summary, using AI here speeds up learning, improves understanding, and builds confidence to write cleaner, more readable, and more efficient code. 
+
+However, I believe that behind every prompt there must be a human mind capable of understanding and analyzing the answers that the AI provides, because without prior knowledge of the subject being asked about—in this case, programming—it is impossible to truly understand the response.
